@@ -1,6 +1,6 @@
 👋 Halo, Saya Nur Kholis Wakhid!
 
-Saya seorang mahasiswa S1 Pendidikan Teknologi Informasi di Universitas Negeri Surabaya dan memiliki pengalaman magang sebagai IT Support di PT Istana Surya Perkasa. Saya juga aktif di organisasi kemahasiswaan sebagai Wakil Ketua Komisi 4 Advokasi Dan Kesejahteraan Mahasiswa di DPM Fakultas Teknik, UNESA.
+Halo, saya Kholis, seorang mahasiswa yang memiliki minat mendalam dalam pengembangan teknologi informasi. Secara khusus, saya mengkhususkan diri dalam pengembangan website dan aplikasi mobile. Saya percaya bahwa melalui bidang ini, saya dapat menciptakan solusi teknologi yang fungsional dan efektif. Dengan semangat belajar yang terus menerus dan kreativitas yang selalu berkembang, saya berharap dapat memberikan kontribusi positif dalam menghadapi tantangan di dunia teknologi informasi. Terima kasih atas kesempatan untuk berbagi sedikit tentang minat dan perjalanan saya.
 
 🚀 Pengalaman dan Kemampuan:
 - Pemeliharaan dan perbaikan perangkat keras dan lunak.
