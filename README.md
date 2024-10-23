@@ -1,20 +1,45 @@
-👋 Halo, Saya Nur Kholis Wakhid!
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hi+Friend+👋;+I'm+Kholis;" />
+</h1>
 
-Halo, saya Kholis, seorang mahasiswa yang memiliki minat mendalam dalam pengembangan teknologi informasi. Secara khusus, saya mengkhususkan diri dalam pengembangan website dan aplikasi mobile. Saya percaya bahwa melalui bidang ini, saya dapat menciptakan solusi teknologi yang fungsional dan efektif. Dengan semangat belajar yang terus menerus dan kreativitas yang selalu berkembang, saya berharap dapat memberikan kontribusi positif dalam menghadapi tantangan di dunia teknologi informasi. Terima kasih atas kesempatan untuk berbagi sedikit tentang minat dan perjalanan saya.
+<h3 align="center">A interest in information technology development. Specifically, I specialize in website and mobile application development. </h3>
 
-🚀 Pengalaman dan Kemampuan:
-- Pemeliharaan dan perbaikan perangkat keras dan lunak.
-- Analisis dan pemecahan masalah teknis.
-- Pengembangan perangkat lunak dengan HTML, CSS, JavaScript, PHP, dan framework Laravel.
-- Manajemen proyek IT.
-- Kemampuan komunikasi, organisasi, kepemimpinan, dan pemecahan masalah.
+<br/>
 
-🎓 Pendidikan:
-- S1 Pendidikan Teknologi Informasi, Universitas Negeri Surabaya.
-- Multimedia, SMKN 1 Lamongan.
+<div align="center">
+ 
+ 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:nurkholiswakhid@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/nurkholiswakhid" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/kholis.wakhid/" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-📫 Anda dapat menghubungi saya melalui:
-- Email: nurkholiswakhid@gmail.com
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,php,html,css,vscode,github,figma,git" /><br>
+    <img src="https://skillicons.dev/icons?i=laravel,kotlin,firebase,c,java,mysql" /><br>
+</div>
 
+<br/>
+<hr/>
 
-Terima kasih telah mengunjungi profil GitHub saya! Saya senang berkolaborasi dan belajar hal baru. 😊🌟
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
