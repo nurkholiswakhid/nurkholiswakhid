@@ -29,7 +29,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,php,html,css,vscode,github,figma,git" /><br>
-    <img src="https://skillicons.dev/icons?i=laravel,kotlin,firebase,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=laravel,kotlin,firebase,java,mysql" /><br>
 </div>
 
 
