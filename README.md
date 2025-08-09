@@ -54,14 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
-<!-- HEADER GIF -->
-<div align="center">
-    <img 
-        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-        alt="Animated Banner" 
-        style="max-width: 100%; border-radius: 12px; box-shadow: 0px 4px 12px rgba(0,0,0,0.5);" 
-    />
-</div>
+
 
 
 
