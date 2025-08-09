@@ -56,8 +56,14 @@
 </div>
 <!-- HEADER GIF -->
 <div align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated Banner" style="max-width: 100%; border-radius: 12px;" />
+    <img 
+        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+        alt="Animated Banner" 
+        style="max-width: 100%; border-radius: 12px; box-shadow: 0px 4px 12px rgba(0,0,0,0.5);" 
+    />
 </div>
+
+
 
 ---
 
