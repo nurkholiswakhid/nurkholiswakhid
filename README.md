@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/nurkholiswakhid/nurkholiswakhid/blob/main/img/1737572452774.jpeg" alt=" BHeaderanner" style="max-width: 100%; " />
+    <img src="https://raw.githubusercontent.com/nurkholiswakhid/nurkholiswakhid/main/img/1737572452774.jpeg" alt=" BHeaderanner" style="max-width: 100%; " />
 </div>
 
 
