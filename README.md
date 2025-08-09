@@ -16,11 +16,7 @@
 <!-- INTRO -->
 <h4 align="center">
   I'm 
-  <span style="
-    background: linear-gradient(90deg, #0a9396, #94d2bd);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  ">
+  <span >
     Nur Kholis Wakhid
   </span> 👋
 </h4>
