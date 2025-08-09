@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hi+Friend+👋" />
 </h1>
 
-<h2 align="center">I'm Nur Kholis Wakhid 👋</h2>
+<h4 align="center">I'm Nur Kholis Wakhid 👋</h4>
 
 ###
 
@@ -74,18 +74,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nurkholiswakhid/nurkholiswakhid/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nurkholiswakhid/nurkholiswakhid/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nurkholiswakhid/nurkholiswakhid/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nurkholiswakhid/nurkholiswakhid/output/pacman-contribution-graph.svg">
-</picture>
-
-###
