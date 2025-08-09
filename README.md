@@ -9,7 +9,7 @@
 
 
 
-<div align="center" style="background: linear-gradient(90deg, #002f4b, #005f73, #0a9396, #94d2bd); padding: 15px;  margin-top: 10px;">
+<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&duration=3500&lines=Hi+Friend+👋;Welcome+to+my+GitHub+Profile!+🚀;I+Love+Building+Cool+Stuff+💻;Let's+Create+Something+Amazing!+✨" alt="Typing SVG" />
 </div>
 
