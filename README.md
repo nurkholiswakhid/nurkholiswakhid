@@ -23,12 +23,8 @@
 
 <p align="center"><em>Passionate in <strong>IT Development</strong> — specializing in <strong>Web</strong> & <strong>Mobile Applications</strong> 🚀</em></p>
 
----
 
-<!-- STATS -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nurkholiswakhid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
+
 
 ---
 
